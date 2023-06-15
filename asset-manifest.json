@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba7b5593.css",
+    "main.js": "./static/js/main.781d4b94.js",
+    "static/media/autoplay_base.webp": "./static/media/autoplay_base.cd6c183b6f3ca075c713.webp",
+    "static/media/cross_btn_over.webp": "./static/media/cross_btn_over.d7e6ec8703d36dea83df.webp",
+    "static/media/cross_btn_down.webp": "./static/media/cross_btn_down.29d16aa3e631ae6d359c.webp",
+    "static/media/cross_btn_up.webp": "./static/media/cross_btn_up.7f290281f946f89bc007.webp",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba7b5593.css",
+    "static/js/main.781d4b94.js"
+  ]
+}
